@@ -1,0 +1,8 @@
+old_runs/
+runs/
+venv/
+**/__pycache__/**
+.ipynb_checkpoints/*
+.vscode/*
+makefile
+.DS_Store
