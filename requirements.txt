@@ -1,0 +1,9 @@
+gym==0.21
+torch
+tensorboard
+scipy
+numba
+pandas
+sympy
+stable_baselines3
+pyyaml
