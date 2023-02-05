@@ -15,7 +15,7 @@ Combating an epidemic entails finding a plan that describes when and how to appl
 
 ### Selected Requirements 
 
-- EpiPolicy Epidemic Simulator 
+- EpiPolicy Epidemic Simulator (included with this repository)
 - Python 3.8/3.9 
 - Pytorch
 - stable-baselines3
@@ -25,7 +25,7 @@ Combating an epidemic entails finding a plan that describes when and how to appl
 
 Note: For installing **all** requirements use --> `pip3 install -r requirements.txt`
 
-### Epipolicy 
+### Epipolicy Epidemic Simulator 
 
 EpiPolicy is a population-based epidemic simulator and policy aid that allows users to customize its compartmental model to capture different epidemic scenarios for epidemics like COVID-19. Its user interface makes it easy to define various interventions such as social distancing, school closure, vaccination, and disease-specific interventions. EpiPolicy aids policy makers by simulating and constructing locale-specific intervention schedules that reduce disease burden, and minimize social and economic costs. 
 
