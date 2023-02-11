@@ -2,7 +2,7 @@
 PyTorch implementation of the paper:
 
 - **Title**: *Planning Multiple Epidemic Interventions with Reinforcement Learning* 
-- **ArXiv**: [coming soon] 
+- **ArXiv**: [arxiv:2301.12802](https://arxiv.org/abs/2301.12802)
 <!-- - **Authors**:  -->
 <!-- - **Conference**:  -->
 <!-- - More details:  -->
@@ -85,7 +85,12 @@ Code for baselines is in `plots.ipynb`
 
 Planning Multiple Epidemic Interventions with Reinforcement Learning
 ```
-Coming soon... 
+@article{mai2023planning,
+  title={Planning Multiple Epidemic Interventions with Reinforcement Learning},
+  author={Mai, Anh and Gupta, Nikunj and Abouzied, Azza and Shasha, Dennis},
+  journal={arXiv preprint arXiv:2301.12802},
+  year={2023}
+}
 ```
 
 EpiPolicy: a tool for combating epidemics
